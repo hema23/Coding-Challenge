@@ -1,0 +1,4 @@
+1) Used Maven as build tool.
+2) To run tests, install maven and run this command
+   mvn clean test
+3) All the core logic is in the class AllocationManager and use of it is shown in AllocationManagerTest
